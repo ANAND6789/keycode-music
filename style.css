@@ -1,0 +1,156 @@
+/* body {
+    background-image:url("www.jpg.jpg");
+    background-attachment: fixed;
+    box-sizing: 10%;
+
+    /* background-color: skyblue; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  #countdown {
+    font-size: 48px;
+    font-weight: bold;
+  }
+   */
+
+
+
+
+
+/* body {
+  background-color: skyblue;
+  text-align: center;
+}
+
+#countdown {
+  font-size: 50px;
+  font-weight: bold;
+} */
+
+
+
+/* body {
+    background-color: white;
+    text-align: center;
+    padding-top: 250px;
+  }
+  
+  button {
+    font-size: 24px;
+    padding: 10px 20px;
+    border: solid 3px;
+    border-radius: 7px;
+
+  }
+   */
+
+
+
+
+   /* body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  #toggleButton {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+  }
+  
+  #text {
+    font-size: 24px;
+  }
+  
+  .sidebar {
+    width: 200px;
+    height: 100%;
+    background-color: #f1f1f1;
+    position: fixed;
+    top: 0;
+    left: -200px;
+    transition: left 0.3s ease;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  #sidebarToggleButton {
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .sidebar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar ul li {
+    padding: 10px;
+  }
+  
+  .sidebar ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .sidebar ul li a:hover {
+    color: #000;
+    font-weight: bold;
+  }
+   */
+
+body{
+  margin-left: 350px;
+  background-image: url(spiderman.jpeg);
+  margin-top:260px
+}
+   #btn {
+    height: 100px;
+    width: 100px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  #btn1 {
+    height: 100px;
+    width: 100px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  #btn2 {
+    height: 100px;
+    width: 100px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  #btn3 {
+    height: 100px;
+    width: 100px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  #btn4 {
+    height: 100px;
+    width: 100px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+
+  button{
+    display: inline;
+    justify-content: space-between;
+  
+  }
+
+  
